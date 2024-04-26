@@ -1,0 +1,110 @@
+{
+  "users": [
+    {
+      "id": "7",
+      "name": "Naman Pal"
+    },
+    {
+      "id": "5709",
+      "name": "Darrell King"
+    },
+    {
+      "id": "c2a8",
+      "name": "Joanne Reichert"
+    }
+  ],
+  "albums": [
+    {
+      "id": "2492",
+      "userId": null,
+      "title": "Generic Concrete Chair"
+    },
+    {
+      "id": "5b39",
+      "userId": null,
+      "title": "Gorgeous Rubber Table"
+    },
+    {
+      "id": "84c4",
+      "userId": null,
+      "title": "Ergonomic Fresh Tuna"
+    },
+    {
+      "id": "527e",
+      "userId": null,
+      "title": "Recycled Concrete Computer"
+    },
+    {
+      "id": "13ba",
+      "userId": null,
+      "title": "Handcrafted Steel Gloves"
+    },
+    {
+      "id": "fc44",
+      "userId": null,
+      "title": "Tasty Fresh Computer"
+    },
+    {
+      "id": "03e7",
+      "userId": null,
+      "title": "Intelligent Cotton Pizza"
+    },
+    {
+      "id": "d48c",
+      "userId": "7",
+      "title": "Awesome Bronze Fish"
+    },
+    {
+      "id": "caf6",
+      "userId": "7",
+      "title": "Licensed Fresh Bike"
+    },
+    {
+      "id": "5dbc",
+      "userId": "5709",
+      "title": "Ergonomic Cotton Bacon"
+    },
+    {
+      "id": "6fb9",
+      "userId": "7",
+      "title": "Handcrafted Granite Pizza"
+    },
+    {
+      "id": "fb59",
+      "userId": "7",
+      "title": "Handcrafted Granite Table"
+    },
+    {
+      "id": "26e1",
+      "userId": "7",
+      "title": "Awesome Concrete Pizza"
+    },
+    {
+      "id": "04f4",
+      "userId": "c2a8",
+      "title": "Practical Rubber Soap"
+    }
+  ],
+  "photos": [
+    {
+      "id": "a3f5",
+      "albumId": "5dbc",
+      "url": "https://loremflickr.com/150/150/abstract?lock=81983"
+    },
+    {
+      "id": "963d",
+      "albumId": "5dbc",
+      "url": "https://loremflickr.com/150/150/abstract?lock=33109"
+    },
+    {
+      "id": "9878",
+      "albumId": "5dbc",
+      "url": "https://loremflickr.com/150/150/abstract?lock=92774"
+    },
+    {
+      "id": "30ca",
+      "albumId": "d48c",
+      "url": "https://loremflickr.com/150/150/abstract?lock=78"
+    }
+  ]
+}
